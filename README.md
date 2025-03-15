@@ -73,7 +73,7 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
     <td>watch video</td>
     <td>481</td>
     <td> <video width="320" height="240" controls>
-        <source src="https://your-direct-video-url.mp4" type="video/mp4">
+        <source src="https://github.com/user-attachments/assets/6c02039b-efad-405c-8fd2-31fbf5c9afd6" type="video/mp4">
       </video>
   </tr>
   <tr>
@@ -107,5 +107,5 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
 
 
 
-https://github.com/user-attachments/assets/6c02039b-efad-405c-8fd2-31fbf5c9afd6
+
 

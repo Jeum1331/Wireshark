@@ -70,13 +70,14 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
   </tr>
   <tr>
     <td>6.How many packets are in the top IP conversation?</td>
-    <td>watch video</td>
+    <td>Click on statistics, conversations, source by IPv4 </td>
     <td>481</td>
     <td><iframe src="https://drive.google.com/file/d/1N-5Zrhz6EB7dbwl-XOVTtDGToiAkncVL/preview" width="320" height="240" allow="autoplay"></iframe></tr>
   <tr>
-    <td>Row 8, Cell 1</td>
-    <td>Row 8, Cell 2</td>
-    <td>Row 8, Cell 3</td>
+    <td>What is the stream ID? Built a filter for the steam ID and apply it
+    <td>ip.stream eq 3</td>
+    <td>481</td>
+    <td><img src="https://github.com/user-attachments/assets/8d36b698-5f42-42b8-b836-b187b88c6b3a"></td>
   </tr>
   <tr>
     <td>Row 9, Cell 1</td>
@@ -101,4 +102,4 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
 </table>
 
 
-
+![Screenshot 2025-03-15 030621](https://github.com/user-attachments/assets/8d36b698-5f42-42b8-b836-b187b88c6b3a)

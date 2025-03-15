@@ -1,0 +1,49 @@
+## Wireshark: Ultimate Hands-On Course Practice
+
+#v🛠 About This Repository
+
+This repository documents my hands-on practice with Wireshark, a powerful network protocol analyzer. Based on the Wireshark Ultimate Hands-On Course, this project showcases my learning journey, packet analysis techniques, and practical applications of network forensics.
+
+# 🔍 Skills Practiced
+
+Packet Capturing & Filtering: Capturing live network traffic and applying display filters.
+
+Protocol Analysis: Understanding and analyzing protocols like TCP, UDP, HTTP, DNS, ARP, ICMP, and TLS.
+
+Security & Threat Detection: Identifying network anomalies, suspicious packets, and potential cybersecurity threats.
+
+Performance Troubleshooting: Diagnosing network issues such as high latency, packet loss, and congestion.
+
+Custom Filters & Expressions: Writing Wireshark display and capture filters for targeted analysis.
+
+Exporting & Reporting: Extracting and interpreting packet data for documentation and reporting.
+
+# 📂 Repository Contents
+
+Packet Captures (.pcap files): Sample network traffic captures with annotations.
+
+Filtering Cheat Sheet: Useful Wireshark filter expressions for efficient packet analysis.
+
+Case Studies & Findings: Documented real-world network issues and security threats identified through Wireshark.
+
+Custom Wireshark Profiles: Pre-configured color rules and display filters for different analysis scenarios.
+
+Scripts & Automation: Python scripts leveraging pyshark for automated packet inspection.
+
+# 🖥️ Sample Wireshark Filters
+
+Here are some commonly used Wireshark filters from my practice:
+# Show only HTTP traffic
+http
+
+# Show only DNS queries (excluding ICMP)
+dns and !icmp
+
+# Filter by specific IP address
+ip.addr == 192.168.1.1
+
+# Show only TCP packets with SYN flag set
+tcp.flags.syn == 1
+
+# Identify packets with potential security threats
+ip.geoip.country == "China" and tcp.port == 22

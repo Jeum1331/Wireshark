@@ -1,6 +1,6 @@
 ## Wireshark: Ultimate Hands-On Course Practice
 
-#v🛠 About This Repository
+# 🛠 About This Repository
 
 This repository documents my hands-on practice with Wireshark, a powerful network protocol analyzer. Based on the Wireshark Ultimate Hands-On Course, this project showcases my learning journey, packet analysis techniques, and practical applications of network forensics.
 

@@ -1,4 +1,4 @@
-# Using special filter operators
+# Using Special Filter Operators
 <table border="1">
   <tr>
     <td>REQUEST</td>

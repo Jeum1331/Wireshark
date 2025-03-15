@@ -2,13 +2,15 @@
 <table border="1">
   <tr>
     <td>REQUEST</td>
-    <td>QUERY </td>
+    <td>QUERY</td>
+    <td>PACKETS DISPLAYED</td>
     <td>DEMONSTRATION</td>
   </tr>
   <tr>
     <td>DNS Packets(no ICMP)</td>
-    <td>dns and !icmp</td>
-    <td>Row 2, Cell 3</td>
+    <td>dns and ! icmp</td>
+    <td>52</td>
+    <td>![Screenshot 2025-03-15 025640](https://github.com/user-attachments/assets/2a1be0be-30f8-4793-9cda-ff3fdf7fea30)</td>
   </tr>
   <tr>
     <td>Row 3, Cell 1</td>
@@ -61,3 +63,4 @@
     <td>Row 12, Cell 3</td>
   </tr>
 </table>
+

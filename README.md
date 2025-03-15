@@ -10,7 +10,7 @@
     <td>DNS Packets(no ICMP)</td>
     <td>dns and ! icmp</td>
     <td>52</td>
-    <td>![Screenshot 2025-03-15 025640](https://github.com/user-attachments/assets/2a1be0be-30f8-4793-9cda-ff3fdf7fea30)</td>
+    <td><img src="https://github.com/user-attachments/assets/2a1be0be-30f8-4793-9cda-ff3fdf7fea30" alt="DNS Packet Screenshot" width="200"></td>
   </tr>
   <tr>
     <td>Row 3, Cell 1</td>

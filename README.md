@@ -31,7 +31,7 @@ Custom Wireshark Profiles: Pre-configured color rules and display filters for di
 Scripts & Automation: Python scripts leveraging pyshark for automated packet inspection.
 
 # 🖥️ Using Special Filter Operators
-![Screenshot 2025-03-15 025408](https://github.com/user-attachments/assets/1a8b5d20-148a-4582-b5c7-802e87ef14ad)
+![Screenshot 2025-03-15 140422](https://github.com/user-attachments/assets/5bdc41b0-4fa1-496d-b1ce-a456862c9640)
 <table border="1">
   <tr>
     <td>REQUEST</td>
@@ -47,7 +47,8 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
   </tr>
   <tr>
     <td>2.DNS including the word "foundation"(Regardless of case)</td>
-    <td>dns matches "foundation" and !icmp </td>
+    <td>dns matches "f![Screenshot 2025-03-15 140422](https://github.com/user-attachments/assets/16217a29-352f-4672-aa65-c7a495aa4381)
+oundation" and !icmp </td>
     <td>34</td>
     <td><img src="https://github.com/user-attachments/assets/18c7e066-05e9-46aa-a81a-a29eb5b39aa3" alt="DNS matches Screeshot"></td>
   </tr>

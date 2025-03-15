@@ -87,21 +87,22 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
   </tr>
   <tr> 
     <td>9.Remove the previous filter, in the pcap how many packets have the TCP SYN bit set to 1?</td>
-    <td>tcp.flags.syn == 1</td>
+    <td>tcp.flags.syn==1</td>
     <td>8</td>
     <td><img src="https://github.com/user-attachments/assets/c620bafa-3b11-49da-9d02-4fbcc78785a7"></td>
   </tr>
   <tr>
-    <td>10.</td>
-    <td>Row 11, Cell 2</td>
-    <td>Row 11, Cell 3</td>
+    <td>10.How many packets have the Reset bit set to 1?</td>
+    <td>tcp.flags.reset==1</td>
+    <td>1</td>
+    <td><img src="https://github.com/user-attachments/assets/0b437d50-85bb-4f15-a0ab-c6bfdf5791a5"></td>
   </tr>
     <tr>
-    <td>Row 12, Cell 1</td>
-    <td>Row 12, Cell 2</td>
-    <td>Row 12, Cell 3</td>
+    <td>11. How many TCP SYN/ACKs are in the pcap?</td>
+    <td>tcp.flags.syn==1 and tcp.flags.ack==1</td>
+    <td>8</td>
+      <td><img src="https://github.com/user-attachments/assets/8716db1d-c9eb-4595-bc70-4c5e83f3c664"></td>
   </tr>
 </table>
 
-![Screenshot 2025-03-15 030805]()
 

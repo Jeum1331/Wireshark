@@ -72,10 +72,7 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
     <td>6.How many packets are in the top IP conversation?</td>
     <td>watch video</td>
     <td>481</td>
-    <td> <video width="320" height="240" controls>
-        <source src="https:https://drive.google.com/file/d/1N-5Zrhz6EB7dbwl-XOVTtDGToiAkncVL/view?usp=sharing" type="video/mp4">
-      </video>
-  </tr>
+    <td>  <iframe src="https://drive.google.com/file/d/1N-5Zrhz6EB7dbwl-XOVTtDGToiAkncVL/preview" width="320" height="240" allow="autoplay"></iframe></tr>
   <tr>
     <td>Row 8, Cell 1</td>
     <td>Row 8, Cell 2</td>
@@ -103,13 +100,5 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
   </tr>
 </table>
 
-
-
-
-
-
-
-
-https://github.com/user-attachments/assets/
 
 

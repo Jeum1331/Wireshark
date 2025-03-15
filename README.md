@@ -63,15 +63,19 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
     <td><img src="https://github.com/user-attachments/assets/db2a63c1-f24d-42f3-9a82-0ac6263efc80"></td>
   </tr>
   <tr>
-    <td>ICMP packets (What port was unreachable?)</td>
+    <td>5.ICMP packets (What port was unreachable?)</td>
     <td>icmp</td>
     <td>1 port 49679</td>
     <td><img src="https://github.com/user-attachments/assets/29d0f02e-f4c5-4fb5-9165-6d5f9e0d6155"></td>
   </tr>
   <tr>
-    <td>Row 7, Cell 1</td>
-    <td>Row 7, Cell 2</td>
-    <td>Row 7, Cell 3</td>
+    <td>6.How many packets are in the top IP conversation?</td>
+    <td>watch video</td>
+    <td>481</td>
+    <td> <video width="320" height="240" controls>
+        <source src="https://your-direct-video-url.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
   </tr>
   <tr>
     <td>Row 8, Cell 1</td>
@@ -101,4 +105,8 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
 </table>
 
 
+
+
+
+https://github.com/user-attachments/assets/6c02039b-efad-405c-8fd2-31fbf5c9afd6
 

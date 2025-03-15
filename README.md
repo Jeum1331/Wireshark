@@ -1,9 +1,9 @@
 # Using special filter operators
 <table border="1">
   <tr>
-    <td>Row 1, Cell 1</td>
-    <td>Row 1, Cell 2</td>
-    <td>Row 1, Cell 3</td>
+    <td>REQUEST</td>
+    <td>QUERY </td>
+    <td>DEMONSTRATION</td>
   </tr>
   <tr>
     <td>Row 2, Cell 1</td>
@@ -54,5 +54,10 @@
     <td>Row 11, Cell 1</td>
     <td>Row 11, Cell 2</td>
     <td>Row 11, Cell 3</td>
+  </tr>
+    <tr>
+    <td>Row 12, Cell 1</td>
+    <td>Row 12, Cell 2</td>
+    <td>Row 12, Cell 3</td>
   </tr>
 </table>

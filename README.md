@@ -2,7 +2,7 @@
 
 # 🛠 About This Repository
 
-This repository documents my hands-on practice with Wireshark, a powerful network protocol analyzer. Based on the Wireshark Ultimate Hands-On Course, this project showcases my learning journey, packet analysis techniques, and practical applications of network forensics.
+This repository documents my hands-on practice with Wireshark. Based on the Wireshark Ultimate Hands-On Course, this project showcases my learning journey, packet analysis techniques, and practical applications of network forensics.
 
 # 🔍 Skills Practiced
 
@@ -30,24 +30,7 @@ Custom Wireshark Profiles: Pre-configured color rules and display filters for di
 
 Scripts & Automation: Python scripts leveraging pyshark for automated packet inspection.
 
-# 🖥️ Sample Wireshark Filters
-
-Here are some commonly used Wireshark filters from my practice:
-# Show only HTTP traffic
-http
-
-# Show only DNS queries (excluding ICMP)
-dns and !icmp
-
-# Filter by specific IP address
-ip.addr == 192.168.1.1
-
-# Show only TCP packets with SYN flag set
-tcp.flags.syn == 1
-
-# Identify packets with potential security threats
-ip.geoip.country == "China" and tcp.port == 22
-# Using Special Filter Operators
+# 🖥️ Using Special Filter Operators
 <table border="1">
   <tr>
     <td>REQUEST</td>

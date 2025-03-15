@@ -19,9 +19,10 @@
     <td><img src="https://github.com/user-attachments/assets/18c7e066-05e9-46aa-a81a-a29eb5b39aa3" alt="DNS matches Screeshot" width="200"></td>
   </tr>
   <tr>
-    <td>Row 4, Cell 1</td>
-    <td>Row 4, Cell 2</td>
-    <td>Row 4, Cell 3</td>
+    <td>DNS requests for domains that do not have the word "foundation" </td>
+    <td>dns and ! dns matches "foundation" and ! icmp</td>
+    <td>18</td>
+    <td><img src="https://github.com/user-attachments/assets/aff0a025-1215-494f-a275-1de52df7a235" ></td>
   </tr>
   <tr>
     <td>Row 5, Cell 1</td>
@@ -66,3 +67,4 @@
 </table>
 
 
+![Screenshot 2025-03-15 030215]()

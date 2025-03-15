@@ -16,7 +16,7 @@
     <td>DNS including the word "foundation"(Regardless of case)</td>
     <td>dns matches "foundation" and ! icmp </td>
     <td>34</td>
-    <td><img src=https://github.com/user-attachments/assets/18c7e066-05e9-46aa-a81a-a29eb5b39aa3" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/18c7e066-05e9-46aa-a81a-a29eb5b39aa3" alt="DNS matches Screeshot" width="200"></td>
   </tr>
   <tr>
     <td>Row 4, Cell 1</td>

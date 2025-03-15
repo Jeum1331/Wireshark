@@ -74,7 +74,6 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
     <td>481</td>
     <td> <video width="320" height="240" controls>
         <source src="https://your-direct-video-url.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
   </tr>
   <tr>

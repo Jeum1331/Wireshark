@@ -63,9 +63,10 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
     <td><img src="https://github.com/user-attachments/assets/db2a63c1-f24d-42f3-9a82-0ac6263efc80"></td>
   </tr>
   <tr>
-    <td>Row 6, Cell 1</td>
-    <td>Row 6, Cell 2</td>
-    <td>Row 6, Cell 3</td>
+    <td>ICMP packets (What port was unreachable?)</td>
+    <td>icmp</td>
+    <td>1 port 49679</td>
+    <td><img src="https://github.com/user-attachments/assets/29d0f02e-f4c5-4fb5-9165-6d5f9e0d6155"></td>
   </tr>
   <tr>
     <td>Row 7, Cell 1</td>
@@ -101,4 +102,3 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
 
 
 
-![Screenshot 2025-03-15 030356]()

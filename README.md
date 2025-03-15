@@ -50,10 +50,10 @@ ip.geoip.country == "China" and tcp.port == 22
 # Using Special Filter Operators
 <table border="1">
   <tr>
-    <td>REQUEST</td>
-    <td>QUERY</td>
-    <td>PACKETS DISPLAYED</td>
-    <td>DEMONSTRATION</td>
+    <td># REQUEST</td>
+    <td># QUERY</td>
+    <td># PACKETS DISPLAYED</td>
+    <td># DEMONSTRATION</td>
   </tr>
   <tr>
     <td>1.DNS Packets(no ICMP)</td>

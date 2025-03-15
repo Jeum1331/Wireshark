@@ -13,9 +13,10 @@
     <td><img src="https://github.com/user-attachments/assets/2a1be0be-30f8-4793-9cda-ff3fdf7fea30" alt="DNS Packet Screenshot" width="200"></td>
   </tr>
   <tr>
-    <td>Row 3, Cell 1</td>
-    <td>Row 3, Cell 2</td>
-    <td>Row 3, Cell 3</td>
+    <td>DNS including the word "foundation"(Regardless of case)</td>
+    <td>dns matches "foundation" and ! icmp </td>
+    <td>34</td>
+    <td><img src=https://github.com/user-attachments/assets/18c7e066-05e9-46aa-a81a-a29eb5b39aa3" width="200"></td>
   </tr>
   <tr>
     <td>Row 4, Cell 1</td>
@@ -63,4 +64,5 @@
     <td>Row 12, Cell 3</td>
   </tr>
 </table>
+
 

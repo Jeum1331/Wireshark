@@ -47,8 +47,7 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
   </tr>
   <tr>
     <td>2.DNS including the word "foundation"(Regardless of case)</td>
-    <td>dns matches "f![Screenshot 2025-03-15 140422](https://github.com/user-attachments/assets/16217a29-352f-4672-aa65-c7a495aa4381)
-oundation" and !icmp </td>
+    <td>dns matches "foundation" and !icmp </td>
     <td>34</td>
     <td><img src="https://github.com/user-attachments/assets/18c7e066-05e9-46aa-a81a-a29eb5b39aa3" alt="DNS matches Screeshot"></td>
   </tr>

@@ -74,23 +74,25 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
     <td>481</td>
     <td><iframe src="https://drive.google.com/file/d/1N-5Zrhz6EB7dbwl-XOVTtDGToiAkncVL/preview" width="320" height="240" allow="autoplay"></iframe></tr>
   <tr>
-    <td>What is the stream ID? Built a filter for the steam ID and apply it
+    <td>7.What is the stream ID? Built a filter for the steam ID and apply it
     <td>ip.stream eq 3</td>
     <td>481</td>
     <td><img src="https://github.com/user-attachments/assets/8d36b698-5f42-42b8-b836-b187b88c6b3a"></td>
   </tr>
   <tr>
-    <td>Row 9, Cell 1</td>
-    <td>Row 9, Cell 2</td>
-    <td>Row 9, Cell 3</td>
+    <td>8.In this stream, how many packets are greater than 100 bytes?</td>
+    <td>ip.stream eq 3 && (frame.len > 100)</td>
+    <td>393</td>
+    <td><img src="https://github.com/user-attachments/assets/674eb19d-069f-40e9-bc80-fc6da1486fed"></td>
+  </tr>
+  <tr> 
+    <td>9.Remove the previous filter, in the pcap how many packets have the TCP SYN bit set to 1?</td>
+    <td>tcp.flags.syn == 1</td>
+    <td>8</td>
+    <td><img src="https://github.com/user-attachments/assets/c620bafa-3b11-49da-9d02-4fbcc78785a7"></td>
   </tr>
   <tr>
-    <td>Row 10, Cell 1</td>
-    <td>Row 10, Cell 2</td>
-    <td>Row 10, Cell 3</td>
-  </tr>
-  <tr>
-    <td>Row 11, Cell 1</td>
+    <td>10.</td>
     <td>Row 11, Cell 2</td>
     <td>Row 11, Cell 3</td>
   </tr>
@@ -101,5 +103,5 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
   </tr>
 </table>
 
+![Screenshot 2025-03-15 030805]()
 
-![Screenshot 2025-03-15 030621](https://github.com/user-attachments/assets/8d36b698-5f42-42b8-b836-b187b88c6b3a)

@@ -6,8 +6,8 @@
     <td>DEMONSTRATION</td>
   </tr>
   <tr>
-    <td>Row 2, Cell 1</td>
-    <td>Row 2, Cell 2</td>
+    <td>DNS Packets(no ICMP)</td>
+    <td>dns and !icmp</td>
     <td>Row 2, Cell 3</td>
   </tr>
   <tr>

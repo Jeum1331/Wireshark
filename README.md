@@ -31,6 +31,7 @@ Custom Wireshark Profiles: Pre-configured color rules and display filters for di
 Scripts & Automation: Python scripts leveraging pyshark for automated packet inspection.
 
 # 🖥️ Using Special Filter Operators
+![Screenshot 2025-03-15 025408](https://github.com/user-attachments/assets/1a8b5d20-148a-4582-b5c7-802e87ef14ad)
 <table border="1">
   <tr>
     <td>REQUEST</td>
@@ -106,3 +107,4 @@ Scripts & Automation: Python scripts leveraging pyshark for automated packet ins
 </table>
 
 # 🖥️ Unicast vs Multicast vs Broadcast
+
